@@ -1,0 +1,17 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700";
+
+$gray: #f4f4f4;
+
+body {
+  background: $gray;
+  font-family: Open Sans;
+  margin: 20px;
+}
+
+.form-group {
+  display: flex;
+  margin-top: 20px;
+}
